@@ -1,7 +1,7 @@
 ---
 title: Nganuh
 date: 2017-03-02 10:55:00 +07:00
-anak layangan: no. 1232
+layout: post
 ---
 
 Hmm ini blog nganu bos.
