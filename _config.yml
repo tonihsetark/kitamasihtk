@@ -1,12 +1,20 @@
-# Site settings
+---
 title: Tonih Setark Blog
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: tonyapriyadi@student.uir.ac.id
-description: > # this means to ignore newlines until "baseurl:"
-  Hello! Nama saya Tony, pecinta kode dan kopi. Setiap baris kode mempunyai cerita dan dengan secangkir kopi kita mendengarkan cerita.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  tonihsetark
+description: 'Hello! Nama saya Tony, pecinta kode dan kopi. Setiap baris kode mempunyai
+  cerita dan dengan secangkir kopi kita mendengarkan cerita.
 
-# Build settings
+'
+baseurl: ''
+url: http://yourdomain.com
+twitter_username: 
+github_username: tonihsetark
 markdown: kramdown
