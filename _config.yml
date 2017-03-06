@@ -18,3 +18,5 @@ url: http://yourdomain.com
 twitter_username: 
 github_username: tonihsetark
 markdown: kramdown
+
+theme: jekyll-theme-cayman
