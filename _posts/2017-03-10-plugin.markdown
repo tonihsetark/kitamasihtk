@@ -1,6 +1,8 @@
 ---
 title: Plugin
 date: 2017-03-10 09:45:00 +07:00
+categories:
+- agc
 ---
 
 Kita memerlukan beberapa plugin di bawah ini:
