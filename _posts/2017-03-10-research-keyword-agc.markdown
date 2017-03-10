@@ -1,6 +1,6 @@
 ---
 title: Research Keyword AGC
-date: 2017-03-10 09:52:00 +07:00
+date: '2017-03-10T02:52:00.000+00:00'
 categories:
 - agc
 ---
