@@ -1,0 +1,28 @@
+---
+title: Plugin
+date: 2017-03-10 09:45:00 +07:00
+---
+
+Kita memerlukan beberapa plugin di bawah ini:
+1. Relevanssi
+2. All-In-One SEO
+3. STT Gembloong
+![stt-gembloong-setting.png](/uploads/stt-gembloong-setting.png)
+
+Search Permalink Format
+
+Merubah permalink search pada wordpress. Default adalah domain.com/search/keywords-yang-dicari.html atau domain.com/?s=keywords-yang-dicari.html
+
+Dengan ini kita bisa merubah format tersebut sesuai keinginan kita, misal: koleksi-%search%.html maka permalink search menjadi domain.com/koleksi-keywords-yang-dicari.html
+
+Kita dapat menambahkan apa saja ke dalam custom search ini, seperti akhiran .php, .aspx, atau tanpa akhiran.
+
+**Search Meta Description**:
+
+**Sitemap Type**: untuk memilih sitemap jenis txt atau xml, keduanya dapat digunakan.
+
+**How Many Sitemap/file**: untuk membatasi jumlah sitemap, misal limit adalah 50.000 maka jika kita memasukkan 100.000 keywords akan menjadi 2 sitemap. Karena setiap sitemap berisi maksimal 50.000. Set bebas antara 1.000-50.000
+
+**Priority Sitemap**: 0.3
+
+Sisanya biarkan apa adanya.
