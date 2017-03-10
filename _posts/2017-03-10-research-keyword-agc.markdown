@@ -1,6 +1,8 @@
 ---
 title: Research Keyword AGC
 date: 2017-03-10 09:52:00 +07:00
+categories:
+- agc
 ---
 
 Perlu diingat, research keyword pada AGC akan berbeda dengan manual blog. Karena kita akan menarget keyword yang mudah diranking saja. 
